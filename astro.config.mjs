@@ -31,7 +31,7 @@ const options = {
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://yaftedevcpp.github.io/',
+	site: 'https://yaftecpp.github.io/yaftecpp.blog',
 	base: 'yaftecpp.blog',
 
 	markdown: {
