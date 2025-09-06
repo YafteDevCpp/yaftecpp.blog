@@ -16,7 +16,9 @@ allPosts.sort(sortPostsByDate);
 const latestPosts = allPosts.slice(0, 3);
 ---
 
+
 <Base head={{ title, description }}>
 	<Hero />
 	<LatestPosts posts={latestPosts} />
 </Base>
+

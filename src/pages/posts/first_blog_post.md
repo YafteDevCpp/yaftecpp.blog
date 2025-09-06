@@ -123,7 +123,16 @@ Some text to show that the reference links can follow later.
 Images included in _\_posts_ folder are lazy loaded.
 
 Inline-style:
-![alt text](/images/random.jpg "Logo Title Text 1")
+
+<!-- ![alt text](/images/random.jpg "Logo Title Text 1") -->
+
+Imagenes 
+
+
+![Random](public/images/random.jpg)
+
+![Random](public/1.png)
+
 
 ## Table
 
